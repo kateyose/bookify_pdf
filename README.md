@@ -6,7 +6,7 @@ After printed out, just fold them and you'll have a book.
 
 # How to use this
 ```
-Usage: python bookify.py <input_file.pdf>
+Usage: python pdfbooklet.py <input_file.pdf>
      Output: output_<input_file.pdf>
 ```
  
